@@ -8,3 +8,7 @@ body {
 a {
     color: #9575cd;
 }
+
+h4, h5, h6 {
+    font-size: 20px;
+}
