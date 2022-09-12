@@ -1,7 +1,9 @@
 # For Blossom API
 This API pulls up quotes from books (fiction, nonfiction, poetry) that I've read and reminds me of my fiancée.
 
-**Link to project:** https: CURRENTLY IN PROGRESS
+**Link to project:** https://forblossom.netlify.app/
+
+![For Blossom](https://raw.githubusercontent.com/diathekez/for-blossom-api/master/forblossom_screenshot.png)
 
 ## How It's Made:
 
