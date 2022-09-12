@@ -137,7 +137,7 @@ const quotes = {
         'work': '"The Meek One"'
     },
     'unknown': {
-        'quote': 'unknown.',
+        'quote': 'unknown',
         'author': 'unknown',
         'work': 'unknown'
     }
