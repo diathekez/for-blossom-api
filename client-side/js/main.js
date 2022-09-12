@@ -1,3 +1,4 @@
+// API request, fetch, and data display
 document.querySelector('button').addEventListener('click', apiRequest)
 
 async function apiRequest(){
