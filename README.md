@@ -1,7 +1,10 @@
 # For Blossom API
+
 This API pulls up quotes from books (fiction, nonfiction, poetry) that I've read and reminds me of my fiancée.
 
 **Link to project:** https://forblossom.netlify.app/
+
+**NOTE:** All projects are currently being migrated out of Heroku.
 
 ![For Blossom](https://raw.githubusercontent.com/diathekez/for-blossom-api/master/forblossom_screenshot.png)
 
@@ -13,11 +16,11 @@ I built this with vanilla JS using VSCode and the built-in Git Bash terminal. I 
 
 ## Install all the dependencies or node packages used for development via terminal
 
-`npm install` 
+`npm install`
 
 afterward:
 
-`npm start` 
+`npm start`
 
 ## How to Deploy
 
